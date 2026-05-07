@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Full-Stack Web Developer currently in my third year. I’m very fascinated by learning new things in web development and exploring upcoming technologies and tech stacks. I have worked on several live projects and continuously strive to improve my skills
+I’m a Full-Stack Web Developer currently in my third year. I’m very fascinated by learning new things in web development and exploring upcoming technologies and tech stacks. I have worked on several live projects and continuously strive to improve my skills.
 
 
 ## 🌐 Socials:
